@@ -1,6 +1,6 @@
 # Further Hypothesis Testing
 
-Building on the material covered by *Introduction to Sampling and Hypothesis Testing|*, this workshop will explore the application of hypothesis testing to data sets that may deviate from theoretical distributions.
+Building on the material covered by *Introduction to Sampling and Hypothesis Testing*, this workshop will explore the application of hypothesis testing to data sets that may deviate from theoretical distributions.
 
 - The t-test and its variations
 - Comparing variances
