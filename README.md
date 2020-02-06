@@ -19,9 +19,9 @@ Download this repository to your computer as a ZIP file and unpack it.
 
 Open JupyterLab (within Anaconda) and navigate to the unpacked directory to load the `further_hypothesis_testing.ipynb` notebook.
 
-<!--
-Alternatively, you can run the notebooks online using Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnpinney/sampling_and_hypothesis_testing/master?urlpath=lab)
--->
+
+Alternatively, you can run the notebooks online using Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnpinney/further_hypothesis_testing/master?urlpath=lab)
+
 
 ## Evaluation
 
