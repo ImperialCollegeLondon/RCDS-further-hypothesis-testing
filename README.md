@@ -2,6 +2,8 @@
 
 Building on the material covered by *Introduction to Sampling and Hypothesis Testing*, this workshop will explore the application of hypothesis testing to data sets that may deviate from theoretical distributions.
 
+The following topics will be covered:
+
 - The t-test and its variations
 - Comparing variances
 - ANOVA
