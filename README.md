@@ -7,8 +7,9 @@ The following topics will be covered:
 - The t-test
 - Comparing variances
 - ANOVA
+- Chi-squared test
 - Testing for normality
-- Multiple testing corrections
+- Correcting for multiple tests
 - Goodness of fit
 
 
