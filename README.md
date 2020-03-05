@@ -1,17 +1,15 @@
 # Further Hypothesis Testing
 
-Building on the material covered by *Introduction to Sampling and Hypothesis Testing*, this workshop will explore the application of hypothesis testing to data that may deviate from standard theoretical distributions.
+Building on the material covered by *Introduction to Sampling and Hypothesis Testing*, this workshop will introduce a range of commonly used hypothesis tests.
 
 The following topics will be covered:
 
-- The t-test and its variations
+- The t-test
 - Comparing variances
 - ANOVA
 - Testing for normality
-- Non-parametric testing
-- Goodness of fit
 - Multiple testing corrections
-- Choosing appropriate statistical methods
+- Goodness of fit
 
 
 ## Instructions
