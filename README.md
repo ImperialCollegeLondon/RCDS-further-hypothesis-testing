@@ -17,10 +17,10 @@ The following topics will be covered:
 ## Instructions
 Download this repository to your computer as a ZIP file and unpack it.
 
-Open JupyterLab (within Anaconda) and navigate to the unpacked directory to load the `further_hypothesis_testing.ipynb` notebook.
+Open JupyterLab (within Anaconda) and navigate to the unpacked directory to load the notebooks.
 
 
-Alternatively, you can run the notebook online using Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnpinney/further_hypothesis_testing/master?urlpath=lab)
+Alternatively, you can run the notebooks online using Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnpinney/further_hypothesis_testing/master?urlpath=lab)
 
 
 ## Evaluation
