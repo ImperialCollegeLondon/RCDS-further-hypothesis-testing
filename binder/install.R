@@ -1,4 +1,6 @@
 ### install regular packages
 
-install.packages("statip","tidyverse")
+install.packages("statip")
+install.packages("tidyverse")
+
 
