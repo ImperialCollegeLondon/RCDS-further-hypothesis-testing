@@ -2,3 +2,5 @@ dependencies:
   - matplotlib
   - numpy
   - scipy
+  - pandas
+  
